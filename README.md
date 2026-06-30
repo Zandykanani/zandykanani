@@ -31,7 +31,7 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 *Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?zandykanani=YOUR-GITHUB-zandykanani&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?zandykanani=zandykanani&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?zandykanani=YOUR-GITHUB-zandykanani&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
  
