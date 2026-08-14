@@ -1,113 +1,136 @@
 # Hi, I'm Zandy Kanani 👋
 
-### Computer Science Student
+### Computer Science Student | Software Developer
 
-I'm a Computer Science student passionate about building practical software
-solutions that solve real-world problems.
+I'm a Computer Science student at Strathmore University passionate about
+building practical software solutions that solve real-world problems.
 
-I enjoy working across web development, mobile applications, databases,
-and software engineering.
+I enjoy developing across web applications, mobile applications, databases,
+and software engineering, while continuously learning and improving my skills.
 
 ---
 
 ## 👨🏽‍💻 About Me
 
 - 🎓 Computer Science student at Strathmore University
-- 💻 Interested in Software Engineering 
-- 🌱 Currently strengthening my skills in modern web and application development
-- 🔐 Interested in secure and reliable software systems
-- 🚀 I enjoy turning ideas into functional applications
+- 💻 Interested in Software Engineering and Application Development
+- 🌱 Currently strengthening my skills in modern web and mobile development
+- 🗄️ Interested in database systems and backend development
+- 🔐 Interested in building secure and reliable software systems
+- 🚀 Enjoy turning ideas into functional applications
 - 📍 Nairobi, Kenya
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ### Web & Application Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
 
 ### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🪑 Strathmore Furniture Marketplace
-A web-based marketplace designed to help Strathmore University students
-buy, sell, and declutter furniture within the student community.
+### 🪑 StrathFurnish — Furniture Marketplace
 
-**Focus:** Web Development • Marketplace Systems • Database Design
+An Android marketplace application designed to help Strathmore University
+students buy and sell affordable furniture within the student community.
 
-🔗 [View Project](#)
+**Focus:** Android Development • Kotlin • Marketplace Systems • Mobile Applications
 
----
-
-### 🚨 CairKit — Emergency Alert & First Aid System
-A web-based emergency response platform designed to provide users with
-quick access to emergency alerts and first-aid information.
-
-**Focus:** Web Development • Real-Time Systems • User Experience
-
-🔗 [View Project](#)
+🔗 View the project: [https://github.com/jgichana/StrathFurnish](#)
 
 ---
 
-### 📱 Firebase Notes Application
-An Android note-taking application that allows users to create and manage
-notes using Firebase Realtime Database.
+### 🎓 ICS Project 1
 
-**Focus:** Android Development • Kotlin • Firebase
+A collaborative university software project developed as part of the
+Information Systems coursework, applying software engineering concepts
+to solve a practical real-world problem.
 
-🔗 [View Project](#)
+**Focus:** Software Engineering • Information Systems • Database Design • Web Development
 
----
-
-### 💊 Pharma Management System
-A software project focused on managing pharmaceutical information and
-supporting efficient access to structured data.
-
-**Focus:** Software Development • Databases • Information Systems
-
-🔗 [View Project](#)
+🔗 View the project: [https://github.com/jgichana/ICS-project-1](#)
 
 ---
 
-## 📚 What I'm Currently Learning
+### 🍳 Recipe Management System
+
+A full-stack recipe management platform for creating, managing, discovering,
+and sharing recipes with database integration and a responsive web interface.
+
+**Focus:** Full-Stack Development • JavaScript • Node.js • MySQL • Web Development
+
+🔗 View the project: [https://github.com/Zandykanani/recipe-management-system](#)
+
+---
+
+### 🏋️ Muscle World
+
+A fitness management application designed to support structured workout
+planning, fitness data management, and user-focused training activities.
+
+**Focus:** Software Development • Database Systems • Fitness Applications
+
+🔗 View the project: [https://github.com/tyejaedon/Muscle-World](#)
+
+---
+
+## 📚 Currently Learning
 
 - Software Engineering
 - Database Systems
 - Machine Learning
 - Mobile Application Development
+- Backend Development
+- Secure Software Development
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zandykanani&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zandykanani&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zandykanani&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zandykanani&layout=compact&theme=transparent&hide_border=true" height="170" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/zandy-kanani-24b42b365/]
-- 🌐 Portfolio: [Add your portfolio]
-- 📧 Email: [zandykanani@gmail.com]
+- 💼 LinkedIn: [Zandy Kanani](https://www.linkedin.com/in/zandy-kanani-24b42b365/)
+- 🌐 Portfolio: [Coming Soon](YOUR_PORTFOLIO_URL)
+- 📧 Email: zandykanani@gmail.com
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+### 💡 Build. Learn. Improve. Repeat.
 
 Thanks for visiting my profile! ⭐
