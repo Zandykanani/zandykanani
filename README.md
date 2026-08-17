@@ -113,12 +113,12 @@ planning, fitness data management, and user-focused training activities.
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zandykanani&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zandykanani&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-stats-extended-frontend-zandy1.vercel.app/api?username=Zandykanani&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-stats-extended-frontend-zandy1.vercel.app/api/top-langs/?username=Zandykanani&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
+
+
 ---
 
 ## 🤝 Let's Connect
