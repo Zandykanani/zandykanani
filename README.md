@@ -117,9 +117,7 @@ planning, fitness data management, and user-focused training activities.
   <img src="https://github-stats-extended-frontend-zandy1.vercel.app/api?username=Zandykanani&show_icons=true&theme=transparent&hide_border=true" height="170" />
   <img src="https://github-stats-extended-frontend-zandy1.vercel.app/api/top-langs/?username=Zandykanani&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zandykanani&theme=transparent&hide_border=true" height="170" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Zandykanani&theme=transparent&hide_border=true&cache=1" height="170" />
 
 
 ---
